@@ -1,2 +1,4 @@
 # SImple-Port-Scanner
-This is a simple port scanner. 
+These are two simple port scanner.
+1) portscanner.py--> Scans only one port.
+2) PortScanner.py-->Scans almost every port.(updated)
